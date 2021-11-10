@@ -1,0 +1,13 @@
+<trans-unit>
+ <source xml:lang="en">Cannot find the file.</source>
+ <target xml:lang="fr-FR">Fichier non trouvé.</target>
+ <alt-trans>
+  <target xml:lang="fr-FR" phase-name="p1"
+  >Fichier pas trouvé.</target>
+ <alt-trans>
+ <alt-trans quality-match="76">
+  <source xml:lang="en">Folder not found.</source>
+  <target xml:lang="fr-FR" phase-name="p0"
+  >Dossier pas trouvé.</target>
+ <alt-trans>
+</trans-unit>
